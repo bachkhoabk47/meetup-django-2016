@@ -1,4 +1,4 @@
-Name: Nguyen Van Tan
+Name: Nguyen Van Tan </br>
 Bird: 06/10/1991
 Status: Single
 Graduated: HUST
